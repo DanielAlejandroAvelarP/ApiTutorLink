@@ -1,8 +1,8 @@
 {
-    "name": "user-management-yt",
+    "name": "apitutorlink",
     "version": "1.0.0",
     "type": "module",
-    "description": "Aplicación para la gestión de usuarios de una aplicación web",
+    "description": "Backend para el proyecto TutorLink",
     "scripts": {
         "dev": "nodemon src/index.js",
         "start": "node src/index.js",
